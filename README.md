@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Jonathan Ng! Welcome to my profile :)
 
-- 😄 Pronouns: He/Him/Hos
+- 😄 Pronouns: He/Him/His
 - 🔭 I’m currently working on earning my Bachelors of Computer Science at the Unviersity of California, Irvine.
 - 🌱 I’m currently learning how to tackle technical interviews to prove my ability to problem-solve and code.
 - ⚡ Fun fact: I built the Society of Women Engineers & She.Codes clubs at Pasadena City College to support my fellow female engineers.
