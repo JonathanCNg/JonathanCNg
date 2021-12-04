@@ -7,8 +7,10 @@
 
 ### Feel free to check out my projects!
 
-## Other Things to look at!
+### Other Things to look at!
+
 Resume: https://www.jonathanng.info/resume
+
 LinkedIn: https://www.linkedin.com/in/jonathan-c-ng/
 
 
