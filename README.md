@@ -7,6 +7,12 @@
 
 ### Feel free to check out my projects!
 
+## Other Things to look at!
+Resume: https://www.jonathanng.info/resume
+LinkedIn: https://www.linkedin.com/in/jonathan-c-ng/
+
+
+
 <!--
 **JonathanCNg/JonathanCNg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
