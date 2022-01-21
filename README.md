@@ -7,9 +7,8 @@
 
 ### Feel free to check out my projects!
 
-[Projects created with Snap Inc.](https://github.com/JonathanCNg/Snap-Inc-Projects/blob/main/README.md)
-
-[Projects created at Pasadena City College](https://github.com/JonathanCNg/Academic-Projects/blob/main/README.md)
+1. [Projects created with Snap Inc.](https://github.com/JonathanCNg/Snap-Inc-Projects/blob/main/README.md)
+2. [Projects created at Pasadena City College](https://github.com/JonathanCNg/Academic-Projects/blob/main/README.md)
 
 
 #### Done? Here are some other things to look at...
