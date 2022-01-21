@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning how to tackle technical interviews to prove my ability to problem-solve and code.
 - ⚡ Fun fact: I built the Society of Women Engineers & She.Codes clubs at Pasadena City College to support my fellow female engineers.
 
-### Feel free to check out my projects!
+### Feel free to check out my favorite projects!
 
 1. [Projects created with Snap Inc.](https://github.com/JonathanCNg/Snap-Inc-Projects/blob/main/README.md) ⭐👻🌟
 2. [Projects created at Pasadena City College](https://github.com/JonathanCNg/Academic-Projects/blob/main/README.md) 🏫🎒
