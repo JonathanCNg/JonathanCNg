@@ -3,7 +3,7 @@
 - 😄 Pronouns: He/Him/His
 - 🔭 I’m currently working on earning my B.S. Computer Science at the Unviersity of California, Irvine (UCI).
 - 🌱 I’m currently learning how to tackle technical interviews to prove my ability to problem-solve and code.
-- ⚡ Fun fact: I built the Society of Women Engineers & She.Codes clubs at Pasadena City College (PCC) to support my fellow female engineers.
+- ⚡ Fun fact: I built the Society of Women Engineers & She.Codes at Pasadena City College (PCC) to support my fellow female engineers.
 
 ### Feel free to check out my favorite projects!
 
