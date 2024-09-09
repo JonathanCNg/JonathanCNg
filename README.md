@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Jonathan Ng! Welcome to my profile :)
 
 - 😄 Pronouns: He/Him/His
-- 🛠️ Objective: Building Microsoft's cloud computing infrastructure for 1000s of clients including Pixar, Boeing, and Apple.
+- 🛠️ Objective: Building Microsoft's cloud computing infrastructure for 1000s of clients including Pixar, OpenAI, and Apple.
 - 🔭 Education: Earned B.S. Computer Science from the Unviersity of California, Irvine (UCI), specialized in Intelligent Systems.
 - ☄️ Impact: Projects spanning from racial justice advocacy to social media platforms, video games to cancer treatment development. 
 - ⚡ Fun fact: Built Society of Women Engineers & She.Codes at Pasadena City College (PCC) to support my fellow female engineers.
